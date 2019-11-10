@@ -34,3 +34,7 @@
 # Folder
 build/
 resources/
+
+# Others
+*.json
+test
